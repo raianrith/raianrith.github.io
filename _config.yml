@@ -58,11 +58,8 @@ plugins:
 author:
   name   : "Raian Rith"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Student at lawrence studying economics"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -72,8 +69,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
-footer:
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin-in" 
+      url: https://www.linkedin.com/in/raian-rith/footer:
+      
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
